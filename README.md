@@ -1,2 +1,2 @@
 # SA
-solving the famouse TSP problem using the Simulated Anealing algorithm
+solving the famous TSP problem using the Simulated Anealing algorithm
